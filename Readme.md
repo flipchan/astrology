@@ -1,6 +1,7 @@
 
 ## Flask site for astrology
 
+using the python library [flatlib](https://github.com/flatangle/flatlib)
 
 ### Includes:  
 *  Astrology houses   
