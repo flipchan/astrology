@@ -1,7 +1,7 @@
 
 ## Flask site for astrology
 
-using the python library [flatlib](https://github.com/flatangle/flatlib)
+using the python library [flatlib](https://github.com/flatangle/flatlib) and [geonames.org](https://www.geonames.org/) for getting the geographical cordinates
 
 ### Includes:  
 *  Astrology houses   
